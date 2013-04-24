@@ -5,7 +5,7 @@ Google Chrome inspector theme to change the developer tools color scheme.
 
 <b>To install this custom chrome dev tool theme.</b>
 
-Windows XP</br>
+Windows XP<br/>
 C:\Documents and Settings\yourname\Local Settings\Application Data\Google\Chrome\User Data\Default\User StyleSheets
 
 Windows Vista<br/>
